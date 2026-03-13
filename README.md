@@ -72,6 +72,8 @@ frontend-ecommerce-prototype
 └── marcas/
 ```
 
+---
+
 # Possíveis evoluções
 
 Este projeto pode evoluir para incluir:
