@@ -55,3 +55,22 @@ frontend-ecommerce-prototype
 ├── fonts
 ├── produtos
 └── marcas
+
+
+---
+
+# Possíveis evoluções
+
+Este projeto pode evoluir para incluir:
+
+- carrinho de compras
+- integração com API
+- sistema de login
+- filtros de produtos
+- integração com backend
+
+---
+
+# Autor
+
+João Victor Andrade
