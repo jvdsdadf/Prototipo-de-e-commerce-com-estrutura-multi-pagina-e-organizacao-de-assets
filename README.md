@@ -71,7 +71,15 @@ frontend-ecommerce-prototype
 │
 └── marcas/
 ```
+### Organização das pastas
 
+- **css/** → arquivos de estilo da aplicação  
+- **js/** → scripts JavaScript responsáveis por interações  
+- **images/** → imagens utilizadas no layout  
+- **fonts/** → fontes utilizadas na interface  
+- **produtos/** → páginas individuais de produtos  
+- **marcas/** → páginas de marcas disponíveis na loja
+  
 ---
 
 # Possíveis evoluções
