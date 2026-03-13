@@ -48,7 +48,7 @@ Demonstrar conceitos de desenvolvimento front-end como:
 
 ---
 
-# Estrutura do projeto
+## Estrutura do projeto
 
 frontend-ecommerce-prototype
 │
@@ -56,13 +56,19 @@ frontend-ecommerce-prototype
 ├── about.html
 ├── contact.html
 │
-├── css
-├── js
-├── images
-├── fonts
-├── produtos
-└── marcas
-
+├── css/
+│   └── estilos.css
+│
+├── js/
+│   └── script.js
+│
+├── images/
+│
+├── fonts/
+│
+├── produtos/
+│
+└── marcas/
 
 ---
 
