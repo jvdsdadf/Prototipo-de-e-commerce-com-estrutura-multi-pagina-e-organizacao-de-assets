@@ -50,6 +50,7 @@ Demonstrar conceitos de desenvolvimento front-end como:
 
 ## Estrutura do projeto
 
+```
 frontend-ecommerce-prototype
 │
 ├── index.html
@@ -69,8 +70,7 @@ frontend-ecommerce-prototype
 ├── produtos/
 │
 └── marcas/
-
----
+```
 
 # Possíveis evoluções
 
