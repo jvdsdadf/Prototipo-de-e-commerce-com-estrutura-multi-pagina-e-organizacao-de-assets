@@ -1,36 +1,44 @@
-Prototipo De E-commerce Front-end
+# Frontend E-commerce Prototype
 
-Projeto de site de e-commerce para venda de tênis, desenvolvido utilizando **HTML5, CSS3 e JavaScript**, com foco em organização de arquivos, layout responsivo e navegação entre páginas.
+Protótipo de interface de e-commerce desenvolvido com HTML, CSS e JavaScript.
 
-O objetivo do projeto é simular o funcionamento de uma loja virtual de calçados, apresentando catálogo de produtos, páginas individuais de tênis, páginas institucionais e estrutura organizada de assets.
+O projeto simula a estrutura de uma loja online com catálogo de produtos, páginas institucionais e navegação entre seções.
 
+---
 
-Funcionalidades
+# Objetivo
+
+Demonstrar conceitos de desenvolvimento front-end como:
+
+- estruturação de páginas HTML
+- organização de arquivos e assets
+- layout responsivo
+- navegação entre páginas
+- estrutura de catálogo de produtos
+
+---
+
+# Funcionalidades
 
 - Página inicial com destaque de produtos
-- Catálogo de marcas (Nike, Adidas, Puma, Vans etc.)
+- Catálogo de marcas
 - Páginas individuais de produtos
-- Layout responsivo
+- Páginas institucionais
 - Navegação entre páginas
-- Estrutura organizada de arquivos
-- Separação correta de HTML, CSS e assets
-- Interface amigável ao usuário
+- Estrutura organizada de assets
+- Interface amigável
 
-Tecnologias Utilizadas
+---
+
+# Tecnologias utilizadas
 
 - HTML5
 - CSS3
 - JavaScript
 - Bootstrap
 - Font Awesome
-- jQuery UI
-- FlexSlider
-- Easy Responsive Tabs
+- jQuery
 
-Este projeto foi desenvolvido com fins educacionais, com o objetivo de:
+---
 
-- Praticar estruturação de páginas web
-- Aplicar conceitos de organização de arquivos
-- Trabalhar responsividade
-- Simular um e-commerce real
-- Desenvolver boas práticas de front-end
+# Estrutura do projeto
