@@ -48,7 +48,7 @@ Demonstrar conceitos de desenvolvimento front-end como:
 
 ---
 
-## Estrutura do projeto
+# Estrutura do projeto
 
 ```
 frontend-ecommerce-prototype
@@ -71,7 +71,7 @@ frontend-ecommerce-prototype
 │
 └── marcas/
 ```
-### Organização das pastas
+## Organização das pastas
 
 - **css/** → arquivos de estilo da aplicação  
 - **js/** → scripts JavaScript responsáveis por interações  
