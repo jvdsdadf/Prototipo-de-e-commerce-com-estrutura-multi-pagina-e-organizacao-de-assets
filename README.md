@@ -1,10 +1,3 @@
-
-## Demonstração
-
-Acesse o projeto online:
-
-https://jvdsdadf.github.io/frontend-ecommerce-prototype/
-
 # Frontend E-commerce Prototype
 
 Protótipo de interface de e-commerce desenvolvido com HTML, CSS e JavaScript.
