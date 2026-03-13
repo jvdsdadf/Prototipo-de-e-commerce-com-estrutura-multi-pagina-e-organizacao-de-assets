@@ -42,3 +42,16 @@ Demonstrar conceitos de desenvolvimento front-end como:
 ---
 
 # Estrutura do projeto
+
+frontend-ecommerce-prototype
+│
+├── index.html
+├── about.html
+├── contact.html
+│
+├── css
+├── js
+├── images
+├── fonts
+├── produtos
+└── marcas
